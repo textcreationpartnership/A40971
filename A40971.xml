@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farway bell a Christmas truth or two out of the west worth hearing, which will be attested by very many of known worth, sent up in divers reports and letters and upon full examination committed to the publike to be thought on.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40971</idno>
+            <idno type="STC">Wing F536</idno>
+            <idno type="STC">ESTC R37785</idno>
+            <idno type="EEBO-CITATION">17018490</idno>
+            <idno type="OCLC">ocm 17018490</idno>
+            <idno type="VID">105805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1615:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Farway bell a Christmas truth or two out of the west worth hearing, which will be attested by very many of known worth, sent up in divers reports and letters and upon full examination committed to the publike to be thought on.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Church history.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105805:1" rendition="simple:additions"/>
+            <p>Farway Bell.</p>
+            <p>A CHRISTMAS TRUTH OR TWO out of the Weſt worth the hearing;</p>
+            <p>VVhich will be Atteſted by very many of known worth:</p>
+            <p>Sent up in divers Reports and Letters, and upon full examination committed to the publike to be thought upon.</p>
+            <q>
+               <p>
+                  <hi>Oh the depth! How unſearchable are his Judgements, and his ways paſt finding out?</hi>
+               </p>
+            </q>
+            <p>Printed in the Year 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="attestation">
+            <pb facs="tcp:105805:2"/>
+            <pb n="3" facs="tcp:105805:2" rendition="simple:additions"/>
+            <head>Farway Bell</head>
+            <argument>
+               <p>I Muſt thus far anticipate him that takes theſe Admiranda's to hand, telling him he is here not to expect either learn<g ref="char:EOLhyphen"/>ed Parapraſe or Judgement upon theſe manifeſtoes, but only a naked Relation of their truths, and nothing but their truths, which have matter in them worthy the wiſeſt Rumination.</p>
+            </argument>
+            <div type="body_of_attestation">
+               <head>Ad Rombum ſuccincte.</head>
+               <p>Upon the day of our Saviors Nativity this preſent year, at the Canonical hour of Morning Prayer, the known learned and able Miniſter of the Pariſh of <hi>Farway</hi> in the County of <hi>Devon</hi> neer <hi>Honyton,</hi> Mr. <hi>Thomas Foſter,</hi> being outed of his Cure of Souls, for no other crime that he knows or hears of, but his conſcionable care of Preaching his People into con<g ref="char:EOLhyphen"/>ſtant Loyalty and Obedience to the ſacred Servant of God, their dread Soveraign, and a yong piece of <hi>Dagon</hi> Divinity Committee'd into his place, by the force of as judicious a Troop of Horſe; The new come thing to ſhew his zeal to this preſent rare Reformation to Confuſion, forbids the Banes of Devotion and Worſhip of God the Father, that gratiouſly ſent his obedient Son, who out of in<g ref="char:EOLhyphen"/>comparable indulgence, as on that day came in fleſh to Redeem all fleſh from ſin; Betwixt himſelf, <hi>Timothy White worm</hi> and the preſent new Churches one part, and the Religious longing fouls of his now uſurped Pariſhioners of <hi>Farway</hi> on the other part, he as wiſely, as well knowing cauſe why, they ought not to be joyned together, according to the Statute Law of this Land, yet by conſent unrevoked.</p>
+               <p>Gueſs you whence it came to paſſe juſt at the ancient Ca<g ref="char:EOLhyphen"/>nonical hour of Morning Prayer, upon that day ſet apart by
+<pb n="4" facs="tcp:105805:3"/>our Proteſtant Church of <hi>England</hi> for many Ages, to the ſo<g ref="char:EOLhyphen"/>lemnizing of the moſt bleſſed Birth of our Redeemer; The Church and Belfry doors of <hi>Farway</hi> all being ſhut, one of the Bells in the Tower tolled ſo competent a time, as that very many of the Pariſhioners came together to ſee whe<g ref="char:EOLhyphen"/>ther their Weather-Cock were turned, and thought by what they heard, The invitation of the Tolling Bell (their Head upon better reſolves) would to his ability have ſpoken com<g ref="char:EOLhyphen"/>fort and rejoycing, being uſed hitherto to be ſent home as on that day, with raviſhed ſpirits on ſuch ſweet ſubjects, but they finde thoſe godly Expectations fruſtrate, and are filled with amazement, finding their Bell keep tolling, and their Clark to come with the keys, to enquire of them whence this ſhould be.</p>
+               <p>All diligence is uſed by the Clark and Pariſhioners in ſearch, who out of their Aſtoniſhment finde nor knavery, jugling or colluſion in the buſineſſe, the doors they finde all faſt, the Church void and empty of all things capable of acting ſuch an amazing exploit.</p>
+               <p>Other Letters tell us, That likewiſe upon St. <hi>Stephens</hi> day, at the ſame hour, the Bell tolled again, and was ſeen moving when the ſearchers came up into the Tower to make diſcove<g ref="char:EOLhyphen"/>ry; going away full of trouble and diſtraction, one of the Pa<g ref="char:EOLhyphen"/>riſhioners of known judgement and learning, being de<g ref="char:EOLhyphen"/>manded his opinion, told them, He was at the greateſt puzzle that ever he was in ſince he underſtood himſelf, and could not tell what to make of it, unleſſe Almighty God did ſo <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oll his people in the old way to Church on thoſe times to Wor<g ref="char:EOLhyphen"/>ſhip and Honor him, with giving of Thanks, and the Devil kept them out.</p>
+               <p>Thus hath <hi>Farway</hi> Bell tolled out his Truth for Chriſtmas.</p>
+            </div>
+         </div>
+         <div type="attestation">
+            <pb n="5" facs="tcp:105805:3"/>
+            <head>Ofwell Barn.</head>
+            <p>IN this ſame year about the Nineteenth of December in the Afternoon, one <hi>Aminadab Doſet</hi> or ſome ſuch like name, a Rebel (for if there hath been any Rebellion in this wretched Kingdom theſe five or ſix years, this Presbyterian Bell is one) for he hath been on both ſides, but finding the prevailing State likely to advantage him moſt, this looſe fellow, to ſhew him<g ref="char:EOLhyphen"/>ſelf as factious, as ſeditious and lascirvious, the laſt of which hath been offered before Iuſtice to be ſworn againſt him, by the handſomeſt women of this uſurpers Pariſh, that very Afternoon this moſt pernicious Law-driver gave earneſt to a Thatcher to thatch the Parſonage great Barn, he moſt un<g ref="char:EOLhyphen"/>worthily having wound himſelf into the Benefice of a Divine not known nor informed againſt to be of any juſt ex<g ref="char:EOLhyphen"/>ception, That immediate evening of his Bargain making for Chriſtmas day, the Threſhers of the uſurped Corn gone from their work, the walls of that great Barn being ſtrong<g ref="char:EOLhyphen"/>ly built, and having ſtood firm all theſe dreadful ſtorms that righteous Spirits have lately trembled in, fell very ſtrangely in a calm ſtill breath of Air, the walls tumbling outward from the Corn, and the roof into the Threſhing-floor.</p>
+            <p>And the ſame week of ſacred Feaſts held in honor and memory of the Saints, which he contemned to celebrate, re<g ref="char:EOLhyphen"/>ſolved ſo highly to prophane, this <hi>Individuum vagum</hi> that ne<g ref="char:EOLhyphen"/>ver was long quiet with himſelf or any other where he lived, as I am moſt certainly imformed, and wiſh no better work then this Troublers queſtioning our relation, he was foreed in a ſerene night, by the cracking and ſhaking of the roof of his uſurped houſe, about midnight to raiſe and flie, with thoſe he had neſted in it, the houſe being well known to be likely for long continuance.</p>
+            <p>Here me thinks I am in his new cut Cloak, and can Divi<g ref="char:EOLhyphen"/>nity as well as he.</p>
+            <pb n="6" facs="tcp:105805:4"/>
+            <p>The ſtones in the wall, and the timber in the ſides of the houſe cry, Woe unto him that coveteth an evil coveteouſneſs, his Brothers houſe, or his Neigabors wife: This <hi>Amina<g ref="char:EOLhyphen"/>dab</hi>— heard the voyce of the Lord and fled, no ſtrong wind rent the Mountains; no Earthquake intrembled any other houſe in the Countrey; no fire affrighted in the night: Behold, the Lord paſſeth by; the Beams (Beloved) put forth their terrible voyce, believe it the Lord was in the Voyce, and what doſt thou hear, was heard in his conſcience: And now, Beloved, I have done with that; and miſtake not, for in this I have not broke what I promiſed, this is the word of God and not of man.</p>
+         </div>
+         <div type="attestation">
+            <head>Ofwell Bible.</head>
+            <p>I Have but a word of this bound Tragedy, with his black inſide of his own more to trouble you with, and it will be juſtified to the brazen face of this Presbyter of <hi>Ofwell.</hi>
+            </p>
+            <p>Having faln out with the Church great Bible, he charita<g ref="char:EOLhyphen"/>bly reſolves to perſecute it out of the Pariſh, and to that pur<g ref="char:EOLhyphen"/>poſe ſends for his elder Churchwarden, and downright diſ<g ref="char:EOLhyphen"/>covers himſelf ſo angry with that big Book, that he would out it, and have another; telling him, if he would not be the Executioner, it ſhould be the worſe for him.</p>
+            <p>The elder Churchwarden demanding the reaſon of this his rage againſt that fair, and by full Authority ſetled Bible: He ſhortly told him out of his Divinity, That he would have another, for that Bible was againſt the Parliament: A wor<g ref="char:EOLhyphen"/>thy Reaſon to vote the holy Book out of the houſe of God, like the reſt that comes from him: But I have done with him, the higheſt Authority is fit to take him to task once more.</p>
+         </div>
+         <div type="attestation">
+            <pb n="7" facs="tcp:105805:4"/>
+            <head>Broadwinſor work.</head>
+            <p>
+               <hi>VVIlliam Dunn</hi> a factious Farmer of that Pariſh in the County of <hi>Dorſet,</hi> upon the ſame day would himſelf go with his Plough, which being ſuddenly at a ſtand in the field, had his Speech taken from him, and ſo the Beaſt <hi>Dunn</hi> remained until he died.</p>
+            <p>He hath others muſt accompt for ſuch Irregularities, Pro<g ref="char:EOLhyphen"/>phaneneſſes, when they ſhall appear before the Judgement Seat of the contemned holy ones: Have thou nothing to do with the ſtool of wickedneſſe; It is a fearful thing to fall into the hand of the everliving God. Think upon theſe manifeſted Truths; refer all Iudgement to the time: But pray that our diſtracted deluded people may be reſtored to the Spirit of Wiſdom, Iudgement, and a ſound minde.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
